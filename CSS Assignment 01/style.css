@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+NG+Modern:wght@100..400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header {
+    background-color:  #131c13;
+    color: rgb(255, 255, 255) ;
+    padding: 1em;
+    text-align: center;
+     font-family: "Playwrite NG Modern";
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    width: 20%;
+    background-attachment: fixed;
+    border-radius: 10px;
+}
+
+div.introduction {
+
+    background: #131c13;
+    color: white;
+font-family: "Playwrite NG Modern";
+border-radius: 10px;
+margin: 0 auto;
+width: 70%;
+padding: 10px;
+}
+div.panel{
+    background: grey;
+    border-radius: 5px;
+}
+
+footer {
+    background-color:  #131c13;
+    color: white ;
+    padding: 1em;
+    text-align: center;
+    clear: both;
+}
